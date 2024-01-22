@@ -3,7 +3,7 @@ Front end developer<br>
 Studied Computer Science at the Benemerita Universidad Autonoma de Puebla at Mexico<br>
 Continuously adquiring new skills<br>
 <!--![Clim's GitHub stats](https://github-readme-stats.vercel.app/api?username=climdevs&show_icons=true&theme=radical)-->
-## Techn Stack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
